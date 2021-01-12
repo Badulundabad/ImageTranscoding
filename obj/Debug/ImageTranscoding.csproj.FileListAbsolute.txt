@@ -1,0 +1,6 @@
+C:\Users\Public\Projects\ImageTranscoding\bin\Debug\ImageTranscoding.dll
+C:\Users\Public\Projects\ImageTranscoding\bin\Debug\ImageTranscoding.pdb
+C:\Users\Public\Projects\ImageTranscoding\obj\Debug\ImageTranscoding.csprojAssemblyReference.cache
+C:\Users\Public\Projects\ImageTranscoding\obj\Debug\ImageTranscoding.csproj.CoreCompileInputs.cache
+C:\Users\Public\Projects\ImageTranscoding\obj\Debug\ImageTranscoding.dll
+C:\Users\Public\Projects\ImageTranscoding\obj\Debug\ImageTranscoding.pdb
